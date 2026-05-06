@@ -161,12 +161,23 @@ Royalty: 75/25 (creators first)
 
 ---
 
-## LINKS
+## 
+---
 
-- [NOIZYANTHROPIC](https://github.com/rspnoizy/NOIZYANTHROPIC) - Main Empire Spine
-- [NOIZYBEAST](https://github.com/rspnoizy/NOIZYBEAST) - Agent Brain
-- [NOIZYKIDZ](https://github.com/rspnoizy/NOIZYKIDZ) - Kids & Accessibility
-- [NOIZYFISH](https://github.com/rspnoizy/NOIZYFISH) - Music & Publishing
-- discord.gg/noizyarmy | noizy.ai
+## The NOIZY Empire -- 10 Brands. One Doctrine. Zero Compromises.
 
-*RSPNOIZY | rsp@noizy.ai | 75/25 creators first | No device left behind*
+| Brand | Domain | Purpose |
+|---|---|---|
+| NOIZY.AI | noizy.ai | Intelligence Layer + A.I.V.A. |
+| NOIZYFISH | noizyfish.com | Living Legacy Vault |
+| NOIZYKIDZ | noizykidz.com | Haptic Music Education |
+| NOIZYVOX | noizyvox.com | Sovereign Voice Consent Platform |
+| NOIZYLAB | noizylab.ca | R&D and Innovation Hub |
+| FISHMUSICINC | fishmusicinc.com | Music Catalog + Licensing |
+| DREAMCHAMBER | dream.noizy.ai | 500-Year Creative Sanctuary |
+| THE-OLD-GUARD | theoldguard.noizy.ai | ResurrectionOS + Charitable Deployment -- you are here |
+| NOIZYWORLD | noizyworld.com | 10-Year Sovereign Commerce System |
+| 2NDACT | 2ndact.noizy.ai | Universal Bridge App |
+
+**No device left behind. No talent silenced. No human forgotten.**
+**RSPNOIZY | rsp@noizy.ai | 75/25 creators first | Protected by HEAVEN.**
